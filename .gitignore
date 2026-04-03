@@ -15,5 +15,4 @@ project.txt
 alarm.wav
 
 # Ignoring the extra files as they are bundled with some program
-data/
 target/
