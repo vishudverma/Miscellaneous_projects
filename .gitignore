@@ -1,0 +1,19 @@
+# Making this ignore file for whenever I try to make a repo out of this folder this is handy
+# Ignoring the python environment variables.
+./venv/
+
+# Ignoring secrets and key files.
+./key.key
+
+# Ignoring the text files which can be repetitive.
+./story.txt
+./conversion_api.txt
+./password.txt
+./project.txt
+
+# Ignoring the audio files.
+./alarm.wav
+
+# Ignoring the extra files as they are bundled with some program
+./data/
+./target/
