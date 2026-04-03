@@ -22,7 +22,7 @@ Key Concepts:
 Clone the repository:
 
 ```Bash
-    git clone https://github.com/YourUsername/Python-Project-Hub.git
+git clone https://github.com/YourUsername/Python-Project-Hub.git
 ```
 
 Install the requirements.txt file first to run all the programs with smoothly using the following command:
