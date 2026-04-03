@@ -20,15 +20,17 @@ Key Concepts:
 ## ⚙️ Installation & Usage
 
 Clone the repository:
-`Bash
+
+```Bash
     git clone https://github.com/YourUsername/Python-Project-Hub.git
-    `
+```
+
 Install the requirements.txt file first to run all the programs with smoothly using the following command:
 
 ```Bash
 pip install -r requirements.txt
+```
 
 ## 📈 Learning Roadmap
 
 This repo is a "living" project. As I continue to learn from the community and tackle more complex challenges—such as asynchronous programming and database integration—new modules will be added.
-```
